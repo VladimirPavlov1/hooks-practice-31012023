@@ -1,8 +1,13 @@
+import SignupForm from "./SignUpForm/SignUpForm";
+
+
+
+
 export const App = () => {
   return (
     <div>
-    
-      React homework template
+      <SignupForm/>
+      
     </div>
   );
 };
