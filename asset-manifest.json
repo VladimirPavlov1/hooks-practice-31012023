@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VladimirPavlov1/hooks-practice-31012023/static/css/main.7acaea2f.css",
-    "main.js": "/VladimirPavlov1/hooks-practice-31012023/static/js/main.e64006c2.js",
+    "main.js": "/VladimirPavlov1/hooks-practice-31012023/static/js/main.837aae93.js",
     "index.html": "/VladimirPavlov1/hooks-practice-31012023/index.html",
     "main.7acaea2f.css.map": "/VladimirPavlov1/hooks-practice-31012023/static/css/main.7acaea2f.css.map",
-    "main.e64006c2.js.map": "/VladimirPavlov1/hooks-practice-31012023/static/js/main.e64006c2.js.map"
+    "main.837aae93.js.map": "/VladimirPavlov1/hooks-practice-31012023/static/js/main.837aae93.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.e64006c2.js"
+    "static/js/main.837aae93.js"
   ]
 }
